@@ -27,8 +27,8 @@ The latest builds can be found in the [Releases](https://github.com/rt-someone/F
 You can build the tweak yourself by running `make package FINALPACKAGE=1`, make sure you have Theos installed.
 
 ## Credits
-Made by: @rt2746 (me)
-Updated by: @kohlervg
+- Made by: @rt2746 (me)
+- Updated by: @kohlervg
 
 - Uses Facebook's [Fishhook library](https://github.com/facebook/fishhook) as an alternative to %hookf hooking in a jailed environment
 - Some code taken from PlayCover's [PlayTools repository](https://github.com/PlayCover/PlayTools) for device model spoofing
